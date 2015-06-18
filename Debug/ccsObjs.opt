@@ -1,0 +1,1 @@
+"./gpio_if.obj" "./main.obj" "./smartconfig.obj" "./startup_ccs.obj" "./uart_if.obj" "./udma_if.obj" "./source/system/network.obj" "./source/system/system.obj" "./source/pin_mux_config.obj" "./source/hardware/uart/uartA0.obj" "./source/hardware/io/io.obj" "../cc3200v1p32.cmd" -l"libc.a" -lsimplelink.a -ldriverlib.a -lfree_rtos.a 
